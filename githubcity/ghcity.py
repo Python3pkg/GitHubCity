@@ -37,7 +37,7 @@ The MIT License (MIT)
 
 """
 
-from __future__ import absolute_import
+
 import urllib.request
 import urllib.parse
 import threading
